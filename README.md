@@ -5,7 +5,7 @@ but feel free to use it as a starting point/inspiration.
 
 Copyright to https://github.com/andrewwoan
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
+![Home page screenshot](public/social/Screenshot.png?raw=true "Home page screenshot")
 
 ## Instructions
 
